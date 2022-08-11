@@ -1,4 +1,4 @@
-# generation of the bind or dnslib-compatible records using python (to be added)
+# generation of the bind or dnslib-compatible records using python (added)
 
 # prepare the file
 - file$ -> chunks from 1: data encoded in the alphanumeric format
