@@ -4,7 +4,7 @@ Purpose: Download files via DoH, or download and execute a shellcode
 
 - Run example: dark-doh.exe file1 download google yourdomain.com
 
-- The supporting python scripts to be added soon.
+- The supporting python script added.
 
 No src for a moment, maybe will be added later. Packed by UPX.
 
