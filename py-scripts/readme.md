@@ -1,0 +1,1 @@
+- python3 script that generates bind and dnslib compatible zone files to be used with dark-doh
