@@ -6,3 +6,6 @@
 - file -> amount of chunks
 
 # Place data into your DNS zone with the desired TTL
+
+# usage example of the "dnslib" zoneresolver.py (https://github.com/paulc/dnslib)
+- python zoneresolver.py --zone yourzone.txt --port 53 --adddress YOUR_IP
